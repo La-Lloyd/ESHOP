@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  
         'NAME': 'wazapumps',  
         'USER': 'root',  
-        'PASSWORD': 'Iverbora19*87%',  
+        'PASSWORD': 'password1',  
         'HOST': '127.0.0.1',  
         'PORT': '3306',  
         'OPTIONS': {  
